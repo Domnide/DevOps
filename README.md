@@ -13,3 +13,5 @@ go to the folder "hello_world_app"
 npm init -y
 
 npm install express
+
+Can change the region, availability-zone and cidr_block according your configurations
